@@ -24,7 +24,7 @@ SECRET_KEY = '!ddb551(v7ud(1xy)y+rdx5z5%yd2tz+m!q-7=ib*99%1=@4c$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['dybik08.pythonanywhere.com']
 
 # Application definition
 
